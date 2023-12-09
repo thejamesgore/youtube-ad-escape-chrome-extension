@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Link Redirector",
+  "name": "FYT Ad Escaper",
   "version": "1.0",
-  "description": "Redirects specific links to a predefined URL",
+  "description": "Redirects when you click a youtube video to a sanitised ad free version",
   "permissions": [
     "tabs",
     "<all_urls>",
