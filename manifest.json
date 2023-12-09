@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Link Redirector",
+  "version": "1.0",
+  "description": "Redirects specific links to a predefined URL",
+  "permissions": [
+    "tabs",
+    "<all_urls>",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true  
+  }
+}
