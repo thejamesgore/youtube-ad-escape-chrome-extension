@@ -8,7 +8,7 @@ You can use the youtube alternative of your choosing or self host a YouTube alte
 
 ## How To Install
 
-1.  Clone this repo, extra to a folder of your choosing where this code will live for the foreseeable future.
+1.  Clone this repo and extract to a folder of your choosing where this code will live for the foreseeable future.
 2.  Change the `baseURL` in the background.js file of this repo to be the YouTube alternative of your choosing.
 3.  Open your Chromium base web browser, go to `Extentions`, click `Developer mode`, click `Load unpacked`
 4.  Navigate to where this repo lives and click load.
