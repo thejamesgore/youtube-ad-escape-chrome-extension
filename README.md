@@ -1,4 +1,4 @@
-# youtube-chrome-extension
+# youtube-ad-escape-chrome-extension
 
 Youtube adverts, tracking, and the UI is a pain in the arse. This chrome extension is simple way to never deal with a YouTube advert even if you forget to avoid navigating to YouTube.
 
